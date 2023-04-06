@@ -1,6 +1,6 @@
 {
-  "name": "react-native-picky-example",
-  "description": "Example app for react-native-picky",
+  "name": "react-native-wheel-picky-example",
+  "description": "Example app for react-native-wheel-picky",
   "version": "0.0.1",
   "private": true,
   "scripts": {

@@ -19,7 +19,7 @@ target 'PickyExample' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  pod 'react-native-picky', :path => '../..'
+  pod 'react-native-wheel-picky', :path => '../..'
 
   # Enables Flipper.
   #

@@ -1,4 +1,4 @@
-# ⛏️ react-native-picky
+# ⛏️ react-native-wheel-picky
 
 An awesome native wheel picker component for react-native.
 
@@ -22,13 +22,13 @@ An awesome native wheel picker component for react-native.
 ## Installation
 
 ```sh
-yarn add react-native-picky
+yarn add react-native-wheel-picky
 ```
 
 ## Quick Start
 
 ```tsx
-import { Picker, PickerColumn, PickerItem } from 'react-native-picky';
+import { Picker, PickerColumn, PickerItem } from 'react-native-wheel-picky';
 
 export const Demo = () => (
   <Picker>
