@@ -1,5 +1,7 @@
 # ⛏️ react-native-wheel-picky
 
+This is not original but inspired by [react-native-picky](https://github.com/Liamandrew/react-native-picky)
+
 An awesome native wheel picker component for react-native.
 
 ## Features
