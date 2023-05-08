@@ -1,6 +1,7 @@
 {
   "name": "@liukai2_p/react-native-wheel-picky",
-  "version": "1.0.0",
+  "packageManager": "yarn@3.5.0",
+  "version": "1.0.1",
   "author": {
     "name": "liukai2_p",
     "email": "291250358@qq.com"
