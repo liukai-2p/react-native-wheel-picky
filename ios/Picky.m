@@ -20,7 +20,7 @@
 {
   if ((self = [super initWithFrame:frame])) {
     _color = [UIColor blackColor];
-    _font = [UIFont systemFontOfSize:21];
+    _font = [UIFont systemFontOfSize:13];
     _textAlign = NSTextAlignmentCenter;
     _numberOfLines = 1;
     _loop = false;
