@@ -1,5 +1,6 @@
 {
   "name": "@liukai2_p/react-native-wheel-picky",
+  "packageManager": "yarn@3.5.0",
   "version": "1.0.3",
   "main": "src/index.ts",
   "author": {
