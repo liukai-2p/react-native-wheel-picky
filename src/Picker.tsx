@@ -51,7 +51,7 @@ export const Picker = ({
   indicatorSize = 1,
   itemSpace = 12,
   textColor = '#000000',
-  textSize = 20,
+  textSize = 15,
   loop,
   numberOfLines = 1,
   onChange,
@@ -98,6 +98,7 @@ export const Picker = ({
           selectedIndexes={selectedIndexes}
           onChange={handleOnChange}
           numberOfLines={numberOfLines}
+          fontSize={textSize}
           data={data}
           columnWidths={columnWidths}
           loop={loop}
