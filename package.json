@@ -3,7 +3,7 @@
   "description": "An awesome native wheel picker component for react-native",
   "homepage": "https://github.com/liukai-2p/react-native-wheel-picky#readme",
   "packageManager": "yarn@3.5.0",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "src/index.ts",
   "license": "MIT",
   "private": false,

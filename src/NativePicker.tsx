@@ -33,6 +33,7 @@ type NativeAndroidProps = {
   indicatorColor?: NativeColorType;
   itemSpace?: number;
   textColor?: NativeColorType;
+  fontSize?: number;
   textSize?: number;
   selectedIndex?: number;
 };
