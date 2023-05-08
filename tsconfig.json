@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@liukai2_p/react-native-wheel-picky": ["./src/index"]
+      "react-native-wheel-picky": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
